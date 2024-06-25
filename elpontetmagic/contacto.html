@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contacto</title>
+        <link rel="stylesheet" href="CSS/style.css">
+        <meta name="robots" content="index, follow">
+        <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <script src="https://kit.fontawesome.com/e12476e5b0.js" crossorigin="anonymous"></script>
+    </head>
+<body>
+    <nav class="princiapl-nav">
+        <div class="logo">
+            <a href="#" target="_blank">
+                <img src="img/logo.png" alt="El Pontet Magic">
+                <p>El Pontet Magic</p>
+            </a>
+        </div>
+        <div class="nav-list">
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="sobrenosotros.html">Sobre Nosotros</a></li>
+                <li><a href="servicios.html">Servicios</a></li>
+            </ul>
+            <button><a href="contacto.html">Contáctanos</a></button>
+        </div>
+    </nav>
+
+    <div class="contact-container">
+        <div class="contact-info">
+            <h2>CONTÁCTANOS</h2>
+            <p>Si tienes alguna duda, comentario o sugerencia, puedes contactarnos y nos comunicaremos contigo lo antes posible.</p>
+            <img src="img/SVG/subscribe.svg" alt="Icono contacto">
+        </div>
+        <form class="contact-form">
+            <div class="form-group">
+                <label for="name">Nombre completo*</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email*</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="comments">Comentarios*</label>
+                <textarea id="comments" name="comments" required></textarea>
+            </div>
+            <div class="form-group">
+                <input type="checkbox" id="not-robot" name="not-robot" required>
+                <label for="not-robot">No soy un robot</label>
+            </div>
+            <div class="form-group">
+                <input type="checkbox" id="privacy" name="privacy" required>
+                <label for="privacy">He leído y acepto la política de privacidad</label>
+            </div>
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+
+    <svg preserveAspectRatio="none" class="wave-footer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path fill="#fff" fill-opacity="1"
+            d="M0,192L48,160C96,128,192,64,288,74.7C384,85,480,171,576,208C672,245,768,235,864,202.7C960,171,1056,117,1152,106.7C1248,96,1344,128,1392,144L1440,160L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z">
+        </path>
+    </svg>
+
+    <footer>
+        <div class="div-footer">
+            <div class="footer-contacto">
+                <h2>Contáctanos</h2>
+                <p>Teléfono | 696 90 80 47</p>
+                <h2>Email</h2>
+                <p>Almainfantil.elpontetmagic@gmail.com</p>
+                <h2>Dirección</h2>
+                <p>Calle Lorenzo Palmireño número 10, Valencia.</p>
+                <h2>Horario de atención</h2>
+                <p>Lunes a Viernes 9:00h a 17:00h</p>
+            </div>
+            <img src="img/logo.png" alt="Logo">
+        </div>
+        <div class="footer-copyright">
+            ©Copyright. Todos los derechos reservados.
+        </div>
+    </footer>
+</body>
+</html>
