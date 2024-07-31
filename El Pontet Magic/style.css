@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+/* Estilos generales */
+
+body {
+    background-color: #ffff;
+}
+
+section {
+    display: flex;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+p {
+    margin: 0 20px 0 20px;
+}
+
+/* Barra de navegación */
+
+.navbar {
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+}
+
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar .nav-item {
+    font-size: medium;
+}
+
+.navbar .nav-item a {
+    color: black;
+}
+
+.navbar .nav-item a:hover {
+    color: rgb(110, 187, 121);
+    transition: color 0.3s ease;
+}
+
+
+/* Sección principal */
+.principal {
+    background-color: #a0faac;
+    min-height: 450px;
+}
+
+.link-principal{
+    color: black;
+    text-decoration: none;
+}
+
+.link-principal:hover{
+    color: rgb(110, 187, 121);
+    transition: color 0.3s ease;
+}
+
+/* Descripciones generales */
+
+
+/* Seccion fotos guarderia */
+.album img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    transition: all 0.3s ease;
+}
+
+/* Seccion proyecto educativo */
+.titulo-sensorial,
+.titulo-montessori,
+.titulo-vigotsky,
+.titulos-fortalezas {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+/* .row .columna {
+    border: 1px solid rgb(226, 223, 223);
+} */
+
+.row .columna img {
+    padding: 8px 20px;
+}
+
+/* Fortalezas */
+
+/* Testimonios */
+
+.testimonios {
+    padding: 40px 40px 80px 40px;
+}
+
+.testimonios .carousel {
+    max-width: 800px;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item .container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.testimonio-imagen {
+    height: 430px;
+    width: 430px;
+    margin: 10px 10px 20px 10px;
+}
+
+.testimonio-texto {
+    max-width: 70%;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+/* Contacto */
+.contacto .container {
+    max-width: 1100px;
+    min-height: 200px;
+    padding: 20px;
+}
+
+.contacto .rectangulo {
+    margin-top: -4rem;
+    background-color: rgb(13, 110, 253);
+    border-radius: 10px;
+    box-shadow: 0px 1px 4px 1px white;
+}
+
+.contacto .row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.contacto .descripcion {
+    color: white;
+    font-size: 1rem;
+}
+
+.contacto button {
+    color: white;
+    font-weight: bold;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 1.25em 2em;
+    margin: 10px;
+    border-radius: 100px;
+    transition: all 0.2s ease-in-out;
+}
+
+.contacto button:hover {
+    background-color: white;
+    color: black;
+}
+
+.contacto button i {
+    color: white;
+    font-size: 1.3rem;
+    transition: all 0.2s ease-in-out;
+}
+
+.contacto button:hover i {
+    color: black;
+}
+
+
+/* Footer */
+.py-3 .nav-item a:hover {
+    color: #6ebb79 !important;
+    transition: color 0.3s ease;
+}
+
+/* Politica de cookies */
+.cookie-banner {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    display: none;
+  }
+
+/* Responsivo */
+
+@media screen and (max-width: 767px) {
+    .navbar-brand {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    .columna {
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen and (max-width: 991.98px) {
+    .revolucion {
+        margin-bottom: 2rem;
+    }
+}
+

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1850mm" height="892.47mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.0" viewBox="0 0 483191 233094">
+ <defs>
+  <style type="text/css">
+    .fil3 {fill:#009846}
+    .fil0 {fill:#00A0E3}
+    .fil1 {fill:#AE4A84}
+    .fil6 {fill:#E31E24}
+    .fil5 {fill:#EF7F1A}
+    .fil4 {fill:#FFED00}
+    .fil2 {fill:#035478}
+    .fil7 {fill:url(#a)}
+    .fil8 {fill:url(#b)}
+  </style>
+  <linearGradient id="a" y1="50%" y2="50%">
+   <stop stop-color="#EBECEC" offset="0"/>
+   <stop stop-color="#FEFEFE" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="100%" x2="0%" y1="50%" y2="50%" xlink:href="#a">
+  </linearGradient>
+ </defs>
+   <rect class="fil0" width="4.8319e5" height="2.3309e5"/>
+    <path class="fil1" d="m2.3518e5 1.0174e5c47738 0 88780 29666 1.069e5 72169h-19797c-18411-33463-50543-55629-87104-55629-36560 0-68692 22166-87103 55629h-19797c18121-42503 59163-72169 1.069e5 -72169z"/>
+    <path class="fil2" d="m2.3518e5 88016c52728 0 97289 36191 1.1181e5 85898h-18198c-16574-40994-52259-69358-93616-69358-41356 0-77041 28364-93615 69358h-18198c14525-49707 59086-85898 1.1181e5 -85898z"/>
+    <path class="fil3" d="m2.3518e5 72654c58023 0 1.0616e5 43824 1.1526e5 1.0126e5h-16497c-13184-49101-52413-84720-98760-84720-46346 0-85575 35619-98759 84720h-16497c9100-57436 57234-1.0126e5 1.1526e5 -1.0126e5z"/>
+    <path class="fil4" d="m2.3518e5 60603c66988 0 1.2217e5 49539 1.2959e5 1.1331e5h-17697c-12885-55113-58097-95816-1.119e5 -95816-53799 0-99011 40703-1.119e5 95816h-17697c7422-63772 62606-1.1331e5 1.2959e5 -1.1331e5z"/>
+    <path class="fil5" d="m2.3518e5 44639c73484 0 1.3326e5 57590 1.3499e5 1.2928e5h-16901c-9206-63032-58567-1.1117e5 -1.1809e5 -1.1117e5 -59520 0-1.0888e5 48134-1.1809e5 1.1117e5h-16902c1734-71685 61506-1.2928e5 1.3499e5 -1.2928e5z"/>
+    <path class="fil6" d="m2.3518e5 28423c79429 0 1.4382e5 63172 1.4382e5 1.411e5 0 1469-24 2932-70 4391h-17032c-6721-70924-60887-1.262e5 -1.2672e5 -1.262e5 -65829 0-1.2e5 55280-1.2672e5 1.262e5h-17032c-46-1459-70-2922-70-4391 0-77928 64390-1.411e5 1.4382e5 -1.411e5z"/>
+     <ellipse class="fil7" cx="1.3215e5" cy="1.8811e5" rx="34496" ry="22755"/>
+     <ellipse class="fil8" cx="1.3179e5" cy="1.8787e5" rx="27613" ry="20383"/>
+     <ellipse class="fil7" cx="80201" cy="1.8326e5" rx="34496" ry="22755"/>
+     <ellipse class="fil8" cx="79842" cy="1.8302e5" rx="27613" ry="20383"/>
+     <ellipse class="fil7" cx="99698" cy="1.7713e5" rx="34496" ry="13857"/>
+     <ellipse class="fil8" cx="99339" cy="1.7699e5" rx="27613" ry="12413"/>
+     <ellipse class="fil7" cx="60654" cy="1.7122e5" rx="34496" ry="13857"/>
+     <ellipse class="fil8" cx="58784" cy="1.7265e5" rx="27613" ry="12413"/>
+     <ellipse class="fil7" cx="96749" cy="1.5767e5" rx="34496" ry="13857"/>
+     <ellipse class="fil8" cx="96390" cy="1.5753e5" rx="27613" ry="12413"/>
+     <ellipse class="fil7" cx="96749" cy="1.5767e5" rx="34496" ry="13857"/>
+     <ellipse class="fil8" cx="96390" cy="1.5753e5" rx="27613" ry="12413"/>
+     <ellipse class="fil7" cx="1.3803e5" cy="1.7094e5" rx="34496" ry="13857"/>
+     <ellipse class="fil8" cx="1.3767e5" cy="1.708e5" rx="27613" ry="12413"/>
+     <ellipse class="fil7" cx="1.2989e5" cy="1.5381e5" rx="34496" ry="22755"/>
+     <ellipse class="fil8" cx="1.2953e5" cy="1.5357e5" rx="27613" ry="20383"/>
+     <ellipse class="fil7" cx="1.6751e5" cy="1.7579e5" rx="34496" ry="21980"/>
+     <ellipse class="fil8" cx="1.6715e5" cy="1.7556e5" rx="27613" ry="19689"/>
+     <ellipse class="fil8" cx="3.4777e5" cy="1.7918e5" rx="40262" ry="25872"/>
+     <ellipse class="fil7" cx="3.4819e5" cy="1.789e5" rx="32229" ry="23175"/>
+     <ellipse class="fil8" cx="4.084e5" cy="1.7366e5" rx="40262" ry="25872"/>
+     <ellipse class="fil7" cx="4.0882e5" cy="1.7339e5" rx="32229" ry="23175"/>
+     <ellipse class="fil8" cx="3.8565e5" cy="1.667e5" rx="40262" ry="15755"/>
+     <ellipse class="fil7" cx="3.8607e5" cy="1.6653e5" rx="32229" ry="14113"/>
+     <ellipse class="fil8" cx="4.3122e5" cy="1.5998e5" rx="40262" ry="15755"/>
+     <ellipse class="fil7" cx="4.334e5" cy="1.616e5" rx="32229" ry="14113"/>
+     <ellipse class="fil8" cx="3.8909e5" cy="1.4458e5" rx="40262" ry="15755"/>
+     <ellipse class="fil7" cx="3.8951e5" cy="1.4441e5" rx="32229" ry="14113"/>
+     <ellipse class="fil8" cx="3.8909e5" cy="1.4458e5" rx="40262" ry="15755"/>
+     <ellipse class="fil7" cx="3.8951e5" cy="1.4441e5" rx="32229" ry="14113"/>
+     <ellipse class="fil8" cx="3.4091e5" cy="1.5966e5" rx="40262" ry="15755"/>
+     <ellipse class="fil7" cx="3.4133e5" cy="1.5949e5" rx="32229" ry="14113"/>
+     <ellipse class="fil8" cx="3.5041e5" cy="1.4018e5" rx="40262" ry="25872"/>
+     <ellipse class="fil7" cx="3.5083e5" cy="1.3991e5" rx="32229" ry="23175"/>
+     <ellipse class="fil8" cx="3.065e5" cy="1.6518e5" rx="40262" ry="24991"/>
+     <ellipse class="fil7" cx="3.0692e5" cy="1.6491e5" rx="32229" ry="22385"/>
+</svg>
